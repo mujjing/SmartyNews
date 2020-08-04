@@ -1,0 +1,16 @@
+PODS:
+  - WBSegmentControl (0.2.3)
+
+DEPENDENCIES:
+  - WBSegmentControl (~> 0.2.0)
+
+SPEC REPOS:
+  trunk:
+    - WBSegmentControl
+
+SPEC CHECKSUMS:
+  WBSegmentControl: c66bb255598413eea8306401d402ae67974267b2
+
+PODFILE CHECKSUM: 3f3661029527019866401011d59f301dacc59d43
+
+COCOAPODS: 1.8.4
